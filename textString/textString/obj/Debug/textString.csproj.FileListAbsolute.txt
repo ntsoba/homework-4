@@ -1,0 +1,7 @@
+C:\Users\Oleh Pashuk\Desktop\C#\textString\textString\bin\Debug\textString.exe.config
+C:\Users\Oleh Pashuk\Desktop\C#\textString\textString\bin\Debug\textString.exe
+C:\Users\Oleh Pashuk\Desktop\C#\textString\textString\bin\Debug\textString.pdb
+C:\Users\Oleh Pashuk\Desktop\C#\textString\textString\obj\Debug\textString.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Pashuk\Desktop\C#\textString\textString\obj\Debug\textString.exe
+C:\Users\Oleh Pashuk\Desktop\C#\textString\textString\obj\Debug\textString.pdb
+C:\Users\Oleh Pashuk\Desktop\C#\textString\textString\obj\Debug\textString.csprojAssemblyReference.cache

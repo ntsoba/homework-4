@@ -1,0 +1,7 @@
+C:\Users\Oleh Pashuk\Desktop\C#\Replace\Replace\bin\Debug\Replace.exe.config
+C:\Users\Oleh Pashuk\Desktop\C#\Replace\Replace\bin\Debug\Replace.exe
+C:\Users\Oleh Pashuk\Desktop\C#\Replace\Replace\bin\Debug\Replace.pdb
+C:\Users\Oleh Pashuk\Desktop\C#\Replace\Replace\obj\Debug\Replace.csprojAssemblyReference.cache
+C:\Users\Oleh Pashuk\Desktop\C#\Replace\Replace\obj\Debug\Replace.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Pashuk\Desktop\C#\Replace\Replace\obj\Debug\Replace.exe
+C:\Users\Oleh Pashuk\Desktop\C#\Replace\Replace\obj\Debug\Replace.pdb

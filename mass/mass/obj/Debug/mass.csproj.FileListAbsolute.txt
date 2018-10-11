@@ -1,0 +1,7 @@
+C:\Users\Oleh Pashuk\Desktop\C#\mass\mass\bin\Debug\mass.exe.config
+C:\Users\Oleh Pashuk\Desktop\C#\mass\mass\bin\Debug\mass.exe
+C:\Users\Oleh Pashuk\Desktop\C#\mass\mass\bin\Debug\mass.pdb
+C:\Users\Oleh Pashuk\Desktop\C#\mass\mass\obj\Debug\mass.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Pashuk\Desktop\C#\mass\mass\obj\Debug\mass.exe
+C:\Users\Oleh Pashuk\Desktop\C#\mass\mass\obj\Debug\mass.pdb
+C:\Users\Oleh Pashuk\Desktop\C#\mass\mass\obj\Debug\mass.csprojAssemblyReference.cache

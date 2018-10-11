@@ -1,0 +1,7 @@
+C:\Users\Oleh Pashuk\source\repos\mnog\mnog\bin\Debug\mnog.exe.config
+C:\Users\Oleh Pashuk\source\repos\mnog\mnog\bin\Debug\mnog.exe
+C:\Users\Oleh Pashuk\source\repos\mnog\mnog\bin\Debug\mnog.pdb
+C:\Users\Oleh Pashuk\source\repos\mnog\mnog\obj\Debug\mnog.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Pashuk\source\repos\mnog\mnog\obj\Debug\mnog.exe
+C:\Users\Oleh Pashuk\source\repos\mnog\mnog\obj\Debug\mnog.pdb
+C:\Users\Oleh Pashuk\source\repos\mnog\mnog\obj\Debug\mnog.csprojAssemblyReference.cache
