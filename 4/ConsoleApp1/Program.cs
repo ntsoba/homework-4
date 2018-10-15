@@ -33,9 +33,12 @@ namespace ConsoleApp1
 {"General meeting","7"}
             };
 
-            for(int i=0; i<=3; i++)
+            int rows = input.GetUpperBound(0) + 1;
+            int columns = input.Length / rows;
+
+            for (int i=0; i<rows; i++)
             {
-                for (int j = 0; j <= 1; j++)
+                for (int j = 0; j < columns; j++)
                 {
                     if (j == 0) { 
                     
@@ -54,7 +57,7 @@ namespace ConsoleApp1
                        
                     }
                     }
-                    else {  int days = Convert.ToInt32(input[i, 1]);
+                    else {int days = Convert.ToInt32(input[i, 1]);
                     Console.WriteLine((Days)days);}
                    
                     
